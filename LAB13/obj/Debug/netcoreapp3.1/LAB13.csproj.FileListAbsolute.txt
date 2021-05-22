@@ -1,0 +1,15 @@
+D:\Projects\LAB13\LAB13\bin\Debug\netcoreapp3.1\LAB13.exe
+D:\Projects\LAB13\LAB13\bin\Debug\netcoreapp3.1\LAB13.deps.json
+D:\Projects\LAB13\LAB13\bin\Debug\netcoreapp3.1\LAB13.runtimeconfig.json
+D:\Projects\LAB13\LAB13\bin\Debug\netcoreapp3.1\LAB13.runtimeconfig.dev.json
+D:\Projects\LAB13\LAB13\bin\Debug\netcoreapp3.1\LAB13.dll
+D:\Projects\LAB13\LAB13\bin\Debug\netcoreapp3.1\LAB13.pdb
+D:\Projects\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.csprojAssemblyReference.cache
+D:\Projects\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.Form1.resources
+D:\Projects\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.csproj.GenerateResource.cache
+D:\Projects\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.AssemblyInfoInputs.cache
+D:\Projects\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.AssemblyInfo.cs
+D:\Projects\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.csproj.CoreCompileInputs.cache
+D:\Projects\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.dll
+D:\Projects\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.pdb
+D:\Projects\LAB13\LAB13\obj\Debug\netcoreapp3.1\LAB13.genruntimeconfig.cache
